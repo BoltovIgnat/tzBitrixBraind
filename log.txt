@@ -1,0 +1,76 @@
+Host: tz.local
+Date: 2020-04-19 12:36:44
+Module: 
+Array
+(
+    [ID] => 1
+    [TIMESTAMP_X] => 19.04.2020 12:36:23
+    [LOGIN] => admin
+    [PASSWORD] => eFfoOLucb4c7c98a0ef697b7b92750e98c57fdb7
+    [CHECKWORD] => wERnoKQw9a1ca68ce7226c4338806e49ffdc95d8
+    [ACTIVE] => Y
+    [NAME] => Ignat
+    [LAST_NAME] => Boltov
+    [EMAIL] => uncelpeter@gmail.com
+    [LAST_LOGIN] => 19.04.2020 11:56:23
+    [DATE_REGISTER] => 18.04.2020 11:42:22
+    [LID] => s1
+    [PERSONAL_PROFESSION] => asdasd
+    [PERSONAL_WWW] => asdasd
+    [PERSONAL_ICQ] => asdasd
+    [PERSONAL_GENDER] => 
+    [PERSONAL_BIRTHDATE] => 
+    [PERSONAL_PHOTO] => 
+    [PERSONAL_PHONE] => weqweqw
+    [PERSONAL_FAX] => eqweqwe
+    [PERSONAL_MOBILE] => qweqweqwe
+    [PERSONAL_PAGER] => qweqweqwqwe
+    [PERSONAL_STREET] => 
+    [PERSONAL_MAILBOX] => 
+    [PERSONAL_CITY] => 
+    [PERSONAL_STATE] => 
+    [PERSONAL_ZIP] => 
+    [PERSONAL_COUNTRY] => 0
+    [PERSONAL_NOTES] => 
+    [WORK_COMPANY] => 
+    [WORK_DEPARTMENT] => 
+    [WORK_POSITION] => 
+    [WORK_WWW] => 
+    [WORK_PHONE] => 
+    [WORK_FAX] => 
+    [WORK_PAGER] => 
+    [WORK_STREET] => 
+    [WORK_MAILBOX] => 
+    [WORK_CITY] => 
+    [WORK_STATE] => 
+    [WORK_ZIP] => 
+    [WORK_COUNTRY] => 0
+    [WORK_PROFILE] => 
+    [WORK_LOGO] => 
+    [WORK_NOTES] => 
+    [ADMIN_NOTES] => 
+    [STORED_HASH] => 
+    [XML_ID] => 
+    [PERSONAL_BIRTHDAY] => 13.09.1988
+    [EXTERNAL_AUTH_ID] => 
+    [CHECKWORD_TIME] => 2020-04-19 12:36:23
+    [SECOND_NAME] => 
+    [CONFIRM_CODE] => 
+    [LOGIN_ATTEMPTS] => 0
+    [LAST_ACTIVITY_DATE] => 
+    [AUTO_TIME_ZONE] => 
+    [TIME_ZONE] => 
+    [TIME_ZONE_OFFSET] => 
+    [TITLE] => 
+    [BX_USER_ID] => e381b82a53af51e02aa0a0d34c4ec50a
+    [LANGUAGE_ID] => 
+    [IS_ONLINE] => N
+    [UF_IM_SEARCH] => 
+)
+
+    MyClass::OnSaleStatusOrder < ExecuteModuleEventEx < Bitrix\Sale\Compatible\EventCompatibility::onSaleStatusOrderChange < call_user_func_array < Bitrix\Main\EventManager::sendToEventHandler
+	D:\webServer\OSPanel\domains\tz.local\bitrix\modules\main\classes\general\module.php:475
+	D:\webServer\OSPanel\domains\tz.local\bitrix\modules\sale\lib\compatible\eventcompatibility.php:1131
+	D:\webServer\OSPanel\domains\tz.local\bitrix\modules\main\lib\eventmanager.php:435
+	D:\webServer\OSPanel\domains\tz.local\bitrix\modules\main\lib\eventmanager.php:371
+----------

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/local/components/bx-comp-startTmpl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/local/components/ibc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/local/modules/bex.d7dull" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/local/modules/ibc.tz" vcs="Git" />
+  </component>
+</project>

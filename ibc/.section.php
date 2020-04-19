@@ -1,0 +1,6 @@
+<?
+$sSectionName = "ibc";
+$arDirProperties = Array(
+
+);
+?>
